@@ -1,0 +1,13 @@
+.btn-success{
+    background-color: rgb(131, 190, 190);
+}
+.btn-success:hover{
+    background-color: purple;
+}
+.navbar{
+    background-color: green;
+}
+
+.extra {
+    border: 2px solid black;
+}
